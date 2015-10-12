@@ -3,6 +3,7 @@ CRDT investigations or, how to understand them
 
 ---------------------------
 ##References
+* [A comprehensive study of Convergent and Commutative Replicated Data Types](http://hal.upmc.fr/file/index/docid/555588/filename/techreport.pdf)
 * [Paper: CRDTs: Consistency Without Concurrency Control](http://highscalability.com/blog/2010/12/23/paper-crdts-consistency-without-concurrency-control.html)
 * [Convergent Replicated Data Types](http://kellabyte.com/2013/05/20/convergent-replicated-data-types/)
 * [Sean Cribbs - Eventually Consistent Data Structures](https://vimeo.com/43903960)
