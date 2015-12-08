@@ -1,5 +1,5 @@
 # CRDT
-CRDT investigations or, how to understand them
+CRDT References
 
 ---------------------------
 ##References
